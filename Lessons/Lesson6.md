@@ -1,4 +1,4 @@
-<!--## 6. Sprint 1 Retrospective and Sprint 2 Planning & Industry Contact pt 2 - ([Class Slides](https://docs.google.com/presentation/d/1gCBlmpYySuPevpiWLiiAWS0g0-OUcYJtpwZO3NqhhFA/edit#slide=id.p)) BRAUS/DAN
+<!--## 6. Sprint 1 Retrospective and Sprint 2 Planning & Industry Contact pt 2 - ([Class Slides](https://docs.google.com/presentation/d/1iqAgx2HhP2Yfzk8l-Yxt3TZHNbTjbihdlBp7O-5p7Ew/edit#slide=id.p2)) BRAUS/DAN
   - **Objectives** -
     - Define and describe Iteration
     - Apply iteration to your collaboration process
