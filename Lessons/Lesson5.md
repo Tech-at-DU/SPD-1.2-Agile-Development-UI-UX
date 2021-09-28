@@ -1,4 +1,4 @@
-<!--## 5. Digital Mock Ups - ([Class Slides](https://docs.google.com/presentation/d/1MC9D6sFMJLH0By0de65wevx4Zc7LnN12U3Fgf0sQV3M/edit#slide=id.p)) MITCHELL, ADRIANA
+<!--## 5. Digital Mock Ups - ([Class Slides](https://docs.google.com/presentation/d/1RMnRxOslq_bkJhZVHlMCfR2lwvA_OueK4irDpTyBu68/edit#slide=id.p1)) MITCHELL, ADRIANA
   - **Objectives** -
     - Create high fidelity and low fidelity digital mock ups
     - Utilize a variety of design tools including shapes, strokes, boolean tools, type tools, export art
