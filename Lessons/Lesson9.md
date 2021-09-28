@@ -1,4 +1,4 @@
-<!--## 9. Sprint 2 Retrospective, Sprint 3 Planning - ([Class Slides](https://docs.google.com/presentation/d/1Aw5ApZDHS9InAdMndIbALE-xhcXPbIpXD_DZ-WzD4h0/edit#slide=id.g47c27972a6_0_4)) DAN
+<!--## 9. Sprint 2 Retrospective, Sprint 3 Planning - ([Class Slides](https://docs.google.com/presentation/d/16IRDErq9wCIJ1Ms6UbvKCyW2cTZ8YJaKobqwctWqrCA/edit#slide=id.p68) DAN
   - **Objectives** -
     - Apply iteration to your collaboration process
     - Conduct a Sprint Retrospective with your partner
