@@ -30,98 +30,11 @@ Students by the end of the course will be able to ...
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1)
 1. Practice professional business communication that is actionable with an appreciative tone. (PLO 4)
 
-## Schedule
-
-<!-- tabs:start -->
-<!-- omit in toc -->
-### **Section A: Adriana**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |  In-Person Labs   |
-|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
-|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] | |
-|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] | |
-|  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] | Lab |
-|  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
-|  5 |  Mon, Nov 9                | [Digital mockups] |
-|  6 |  Wed, Nov 11               | [User Testing] | Lab |
-|  7 |  Mon, Nov 16               | [Accessibility - Universal Design] |
-|  8 |  Wed, Nov 18               | [Digital Mock up Lab + Final Project Kick off] | Lab |
-|  9 |  Mon, Nov 23               | [Backlogs + Git Branching] + Retrospective Sprint 1|
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30               | [Color Theory] + Retrospective Sprint 2 |
-| 11 |  Wed, Dec 2                | [Typography Theory] + Design Unconference |Lab |
-| 12 |  Mon, Dec 7                | [User Manual Activity] +  Retrospective Sprint 3|
-| 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
-
-<!-- omit in toc -->
-### **Section B: Braus - Hybrid**
-
-**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (13 class sessions)
-
-| Class |          Date          |                 Topics                  |  In-Person Labs   |
-|:-----:|:----------------------:|:---------------------------------------:|:-----------------:|
-|  1 |  Wed, Oct 21               | [Bootstrap - Convention/Configuration] | |
-|  2 |  Mon, Oct 26               | [Bootstrap - Mobile First Design/Grids/Static Components] | |
-|  3 |  Wed, Oct 28               | [Intro to UI/UX, Visual Hierarchy, History of Web Design] | Lab |
-|  - |  Mon, Nov 2                | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4                | [Bootstrap - Dynamic Components] | Lab |
-|  5 |  Mon, Nov 9                | [Digital mockups] |
-|  6 |  Wed, Nov 11               | [User Testing] | Lab |
-|  7 |  Mon, Nov 16               | [Accessibility - Universal Design] |
-|  8 |  Wed, Nov 18               | [Digital Mock up Lab + Final Project Kick off] | Lab |
-|  9 |  Mon, Nov 23               | [Backlogs + Git Branching] + Retrospective Sprint 1|
-|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30               | [Color Theory] + Retrospective Sprint 2 |
-| 11 |  Wed, Dec 2                | [Typography Theory] + Design Unconference |Lab |
-| 12 |  Mon, Dec 7                | [User Manual Activity] +  Retrospective Sprint 3|
-| 13 |  Wed, Dec 9                | [Prototypes Demos + Setting up your MS Portfolio]|  
-
-<!-- tabs:end -->
-
-[Bootstrap - Convention/Configuration]:Lessons/Lesson1.md
-[Bootstrap - Mobile First Design/Grids/Static Components]: Lessons/Lesson2.md
-[Intro to UI/UX, Visual Hierarchy, History of Web Design]: Lessons/Lesson3.md
-[Bootstrap - Dynamic Components]:  Lessons/Lesson4.md
-[Digital mockups]: Lessons/Lesson5.md
-[User Testing]: Lessons/Lesson6.md
-[Digital Mock up Lab + Final Project Kick off]: Lessons/Lesson7.md
-[Backlogs + Git Branching]: Lessons/Lesson8.md
-[Color Theory]: Lessons/Lesson9.md
-[Typography Theory]: Lessons/Lesson10.md
-[User Manual Activity]: Lessons/Lesson11.md
-[Prototypes Demos + Setting up your MS Portfolio]: Lessons/Lesson13.md
-[Accessibility - Universal Design]: Lessons/Lesson12.md
+## [Schedule - see here](https://docs.google.com/spreadsheets/d/1MwpwXn5R8aQeQUdDFArSVG6RCzA14g5NvBYuw-vAkmc/edit?usp=sharing)
 
 ## Assignment Schedule
 
-All assignments are graded on completion. Individual requirements for each are listed in the description of the assignment.
-
-|         Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Product Landing Page]                     |  Oct 21       |  Oct 26      | Gradescope  |
-| [Clone a Webpage w/Bootstrap]              |  Oct 26       |  Oct 28      | Gradescope  |
-| [Capstone Bootstrap site]                  |  Oct 28       |  Nov 9       | Gradescope  |
-| [Digital Mockup]                           |  Nov 9        |  Nov 18      | Gradescope  |
-| [Sprint 1]                                 |  Nov 18       |  Nov 23      | Gradescope  |
-| [Sprint 2]                                 |  Nov 23       |  Nov 30      | Gradescope  |
-| [Sprint 3]                                 |  Nov 30       |  Dec 7       | Gradescope  |
-| [Final Project]                            |  --           |  Dec 9       | Gradescope  |
-
-[Product Landing Page]: https://www.makeschool.com/academy/track/standalone/tutorial-template-title-max-56-characters-9k4/starting-the-project
-[Clone a Webpage w/Bootstrap]: https://docs.google.com/document/d/1LgTHpiVjRTsjyvKNNQ4_y_lC1M7KW7iQ2AGRgvhlRYw/edit
-[Capstone Bootstrap Site]: https://docs.google.com/document/d/1F7oEKH1PXR4rHQf_WP_z8ztVoT0seM0Xl0T8_yxYJp0/edit
-[Digital Mockup]: https://docs.google.com/document/u/1/d/1LV1gGf_QhRyX4WnPvEebC1a6SCXD-oF5tbb70QHVzfk/edit?usp=drive_web&ouid=106043311622109841017
-[Sprint 1]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
-[Sprint 2]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
-[Sprint 3]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
-[Final Project]: https://docs.google.com/document/d/15m8P9ic7sJqVovTozIRdikWCI7HQ_f5TOc5qpqyiAYs/edit#
+View on Gradescope and the [tracker column g](https://docs.google.com/spreadsheets/d/1MwpwXn5R8aQeQUdDFArSVG6RCzA14g5NvBYuw-vAkmc/edit#gid=1695355978)
 
 ## Class Assignments
 
@@ -160,23 +73,4 @@ Attendance requirements for scheduled sessions are:
 
 Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
-## Resources
 
-- [Huddles](resources/huddles.md)
-- [Coaching](resources/coaching.md)
-
-## Information Resources
-
-Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
-
-- [make.sc/library](http://make.sc/library)
-
-## Make School Course Policies
-
-[Academic Honesty](https://make.sc/academic-honesty)<br>
-[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)
-[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)<br>
-[Title IX Policy](https://make.sc/title-ix-policy)<br>
-[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
